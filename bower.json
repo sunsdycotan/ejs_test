@@ -1,0 +1,13 @@
+{
+  "name": "ejs_test",
+  "description": "前端项目",
+  "main": "index.js",
+  "authors": [
+    "Hongyan <841151815@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "jquery": "1.11.3"
+  }
+}

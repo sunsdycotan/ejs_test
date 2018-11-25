@@ -1,0 +1,10 @@
+<div class="layer">
+    <img src="../${require('../../assets/images/banner1.jpg')}" alt="">
+    <div>
+        我是<%= name %>组件
+    </div>
+    <% for(var i=0; i<arr.length; i++) { %>
+        <%= arr[i] %>
+    <% }%>
+    <div id="childTpl"></div>
+</div>
